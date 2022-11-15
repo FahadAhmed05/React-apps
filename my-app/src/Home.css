@@ -1,0 +1,143 @@
+.publisher-box{
+    text-align: center;
+    background: #517a95;
+    height: 364px;
+    padding: 45px 35px;
+    color: #fff;
+    border-radius: 10px;
+  }
+  .are-u-text{
+    font-size: 24px;
+    margin-bottom: 0;
+    font-family: poppins;
+  }
+  .author-text{
+    font-size: 24px;
+    font-family: poppins;
+    font-weight: 600;
+  }
+  .little-book-text{
+    font-size: 16px;
+    font-family: poppins;
+    font-weight: 200;
+  }
+  .reg-btn{
+    font-family: "Poppins";
+    font-weight: 500;
+    height: 45px;
+    background: #fff;
+    color: #517a95;
+    font-size: 16px;
+    width: 75%;
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  .reg-btn:hover{
+    background-color: #000;
+    color: #fff;
+  }
+  .already-text{
+    font-size: 16px;
+    font-family: poppins;
+    font-weight: 500;
+  }
+  .spain{
+    font-size: 18px;
+    font-family: poppins;
+    font-weight: 800;
+  }
+  .spain:hover{
+    opacity: .6;
+    cursor: pointer;
+  }
+  .carousel-indicators [data-bs-target] {
+    width: 4px;
+    height: 3px;
+    margin-right: 12px;
+  }
+  .container-fluid-2{
+    padding: 50px;
+    padding-top: 20px;
+  }
+  .heading-text{
+    color: #1a1818;
+    font-size: 18px;
+    font-family: poppins;
+    font-weight: 500;
+  }
+  .para-text{
+    color: #1a1818;
+    font-size: 14px;
+    font-family: poppins;
+    font-weight: 300;
+}
+.check-text{
+    font-size: 14px;
+    font-family: "Poppins";
+    font-weight: 300;
+    color: #1a1818;
+}
+.book-shadow{
+    background-color: #fff;
+    box-shadow: 0 0 7px 1px #ede7e7;
+}
+.naqvi-book{
+    width: 88%;
+    cursor: pointer;
+}
+.on-text{
+    color: #444;
+    font-size: 16px;
+    font-family: poppins;
+    font-weight: 700;
+}
+.author-name{
+    color: #444;
+    font-size: 14px;
+    font-family: poppins;
+    font-weight: 300;
+}
+.price{
+    color: #2a9f1d;
+    font-family: "Poppins";
+    font-size: 14px;
+    font-weight: 500;
+}
+.star-text{
+    color: #444;
+    font-size: 12px;
+    font-family: poppins;
+    font-weight: 300;
+}
+.add-to-cart-btn{
+    height: 45px;
+    background: #b5322a;
+    color: #fff;
+    width: 80%;
+    font-size: 16px;
+    font-family: poppins;
+    font-weight: 500;
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.add-to-cart-btn:hover{
+    background-color: #f8ebba;
+    color: #b5322a;
+}
+.input-checkbox{
+    content: "";
+    -webkit-appearance: none;
+    background-color: transparent;
+    border: 1px solid;
+    box-shadow: 0 1px 2px rgb(0 0 0 / 5%), inset 0 -15px 10px -12px rgb(0 0 0 / 5%);
+    padding: 7px;
+    display: inline-block;
+    position: relative;
+    vertical-align: middle;
+    cursor: pointer;
+    margin-right: 10px;
+}

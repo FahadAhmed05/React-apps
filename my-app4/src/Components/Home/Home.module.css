@@ -1,0 +1,30 @@
+.home {
+    width: 90%;
+    max-width: 40rem;
+    padding: 3rem;
+    margin: 2rem auto;
+    text-align: center;
+  }
+  .padding{
+    padding: 10%;
+    text-align: center;
+  }
+  .button{
+    height: 76px;
+    width: 58%;
+    font-style: italic;
+    font-size: 30px;
+    font-weight: 600;
+    background: #ff7ce3;
+    color: #741188;
+    border: 2px solid #dd0db0;
+    border-block-color: red;
+    border-radius: 14px;
+    border-width: 9px;
+    cursor: pointer;
+  }
+  .button:hover{
+    color: #dd0db0;
+    background-color: #ff7ce3;
+    border: none;
+  }
